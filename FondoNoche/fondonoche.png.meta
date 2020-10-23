@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: 0d0a0f6be8fcf404dae86a1ae8145857
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -937097974741808607
+    second: fondonoche_0
+  - first:
+      213: -8527279173129648321
+    second: fondonoche_1
+  - first:
+      213: -381068722506676006
+    second: fondonoche_2
+  - first:
+      213: -3254256102517932083
+    second: fondonoche_3
+  - first:
+      213: 4735813840069968505
+    second: fondonoche_4
+  - first:
+      213: -7631652462635590080
+    second: fondonoche_5
+  - first:
+      213: 2926564976619105275
+    second: fondonoche_6
+  - first:
+      213: -8376010788533641323
+    second: fondonoche_7
+  - first:
+      213: -6564878249289789815
+    second: fondonoche_8
+  - first:
+      213: -4662648342446532315
+    second: fondonoche_9
+  - first:
+      213: 8148089598169236625
+    second: fondonoche_10
+  - first:
+      213: 7045656035024421565
+    second: fondonoche_11
+  - first:
+      213: -1857654447429654335
+    second: fondonoche_12
+  - first:
+      213: 1421727324159267380
+    second: fondonoche_13
+  - first:
+      213: -1738219879596774541
+    second: fondonoche_14
+  - first:
+      213: 1399289875000282044
+    second: fondonoche_15
+  - first:
+      213: -7528956260825984009
+    second: fondonoche_16
+  - first:
+      213: -7702897184319637865
+    second: fondonoche_17
+  - first:
+      213: 3596470211509001848
+    second: fondonoche_18
+  - first:
+      213: 7667652565668707600
+    second: fondonoche_19
+  - first:
+      213: -1476269218335275961
+    second: fondonoche_20
+  - first:
+      213: 7224763008224118945
+    second: fondonoche_21
+  - first:
+      213: -5472641702113470659
+    second: fondonoche_22
+  - first:
+      213: 6529815188681351011
+    second: fondonoche_23
+  - first:
+      213: 8974601159417796519
+    second: fondonoche_24
+  - first:
+      213: 6853535528555960678
+    second: fondonoche_25
+  - first:
+      213: -6662419451384792601
+    second: fondonoche_26
+  - first:
+      213: -1984274886438460822
+    second: fondonoche_27
+  - first:
+      213: -2517298880126417840
+    second: fondonoche_28
+  - first:
+      213: -2692555667424094408
+    second: fondonoche_29
+  - first:
+      213: -3412942270550523542
+    second: fondonoche_30
+  - first:
+      213: 8121566405106337714
+    second: fondonoche_31
+  - first:
+      213: -7267632839402460172
+    second: fondonoche_32
+  - first:
+      213: -8377022661515180194
+    second: fondonoche_33
+  - first:
+      213: -5513466829466067055
+    second: fondonoche_34
+  - first:
+      213: 5076837314541989203
+    second: fondonoche_35
+  - first:
+      213: -6367753412542934121
+    second: fondonoche_36
+  - first:
+      213: -697106405839560332
+    second: fondonoche_37
+  - first:
+      213: 737916292639282732
+    second: fondonoche_38
+  - first:
+      213: -2245929772085649885
+    second: fondonoche_39
+  - first:
+      213: 458177157841711581
+    second: fondonoche_40
+  - first:
+      213: 972364054973843907
+    second: fondonoche_41
+  - first:
+      213: 754778333307017515
+    second: fondonoche_42
+  - first:
+      213: 5944639339067470460
+    second: fondonoche_43
+  - first:
+      213: -3303675709108693380
+    second: fondonoche_44
+  - first:
+      213: 7177191885752169363
+    second: fondonoche_45
+  - first:
+      213: 1789743822185593726
+    second: fondonoche_46
+  - first:
+      213: 1033059618666011917
+    second: fondonoche_47
+  - first:
+      213: -2251641079039162150
+    second: fondonoche_48
+  - first:
+      213: -7775537468798564656
+    second: fondonoche_49
+  - first:
+      213: -2063568665062489072
+    second: fondonoche_50
+  - first:
+      213: -5224339652527889013
+    second: fondonoche_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fondonoche_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac6cf5b52cef2f0800000000000000
+      internalID: -937097974741808607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37450185c409a980800000000000000
+      internalID: -8527279173129648321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 131
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad84aff040c26baf0800000000000000
+      internalID: -381068722506676006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf7549015f86d2d0800000000000000
+      internalID: -3254256102517932083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972cfbb989df8b140800000000000000
+      internalID: 4735813840069968505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ede5bf48ce61690800000000000000
+      internalID: -7631652462635590080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb2b73375f3d9820800000000000000
+      internalID: 2926564976619105275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fdc9ad09e62cb80800000000000000
+      internalID: -8376010788533641323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ec465b30ed4e4a0800000000000000
+      internalID: -6564878249289789815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 93
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52919eb4902fa4fb0800000000000000
+      internalID: -4662648342446532315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194cee0b154d31170800000000000000
+      internalID: 8148089598169236625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 93
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2c73995d237c160800000000000000
+      internalID: 7045656035024421565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8e7815f194836e0800000000000000
+      internalID: -1857654447429654335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432dafbf77dfab310800000000000000
+      internalID: 1421727324159267380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bac1f9a3a90e7e0800000000000000
+      internalID: -1738219879596774541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb41314ab64b6310800000000000000
+      internalID: 1399289875000282044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f39300cb26c38790800000000000000
+      internalID: -7528956260825984009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796754392dfc91590800000000000000
+      internalID: -7702897184319637865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e944a3a9a39e130800000000000000
+      internalID: 3596470211509001848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dbbcd2269f86a60800000000000000
+      internalID: 7667652565668707600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7444840b7fc338be0800000000000000
+      internalID: -1476269218335275961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8c4937da3834460800000000000000
+      internalID: 7224763008224118945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 40
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3799820e554d04b0800000000000000
+      internalID: -5472641702113470659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f5d4251509e9a50800000000000000
+      internalID: 6529815188681351011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 40
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a718eb74303c8c70800000000000000
+      internalID: 8974601159417796519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 40
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669d81b6046ac1f50800000000000000
+      internalID: 6853535528555960678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e97e87dec45a83a0800000000000000
+      internalID: -6662419451384792601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a626b1101807674e0800000000000000
+      internalID: -1984274886438460822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05483987102c01dd0800000000000000
+      internalID: -2517298880126417840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondonoche_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837d831e2ee12aad0800000000000000
+      internalID: -2692555667424094408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
